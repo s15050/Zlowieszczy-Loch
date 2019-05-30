@@ -1,0 +1,6 @@
+﻿:guard
+Hej! Czemu stąd czułam dym?
+:angie
+Możesz mnie stąd wypuścić?
+:guard
+Ha! Nie.
