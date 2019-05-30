@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - door-corridor
+  - door-ritual
+  - door-prison
+  - door-storage
+  - door-watch
+  - pickable
+  - interactible
+  - guard
+  - guido
+  - prison-wall
+  - guard-only
+  - escape
+  - stoppoint
+  - invis
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BGInter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3851223481
+    locked: 0
+  - name: Interaction-back
+    uniqueID: 2166229887
+    locked: 0
+  - name: Interaction-front
+    uniqueID: 1622787651
+    locked: 0
